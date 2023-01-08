@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #00BFFF;
+  }
+  
+  #search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  #search-input {
+    width: 500px;
+    height: 40px;
+    font-size: 18px;
+    padding: 0 10px;
+    border: none;
+    border-radius: 20px;
+  }
+  
+  #search-button {
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    background-color: #00BFFF;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
